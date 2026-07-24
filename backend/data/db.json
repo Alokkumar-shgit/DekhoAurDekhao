@@ -1,0 +1,255 @@
+{
+  "users": [
+    {
+      "id": "69f1bf6f-4bfc-495d-aab0-25df93949cba",
+      "name": "Alok ",
+      "email": "sahooalok7285@gmail.com",
+      "passwordHash": "$2a$10$p3ieYhAYiaLWp..wGYR1pevhDwtclu03L67w1jTKjVINZnao4UOwG"
+    },
+    {
+      "id": "8ba89a3c-58cf-468f-92f6-eb506d77a856",
+      "name": "Alok kumar sahoo",
+      "email": "sahooalok7285@gmail.comsa",
+      "passwordHash": "$2a$10$CDWHtAwt7l3i2TSBhisLLuTj0HsJFAU4..oYtlJGHdz4BEtk2eGxq"
+    }
+  ],
+  "places": [
+    {
+      "id": "bhitarkanika-national-park",
+      "name": "Bhitarkanika National Park",
+      "district": "kendrapara",
+      "category": "Wildlife Sanctuary",
+      "image": "https://images.unsplash.com/photo-1544552866-d3ed42536cfd?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 20.7167,
+        "lng": 86.9
+      },
+      "nearestCity": "Kendrapara Town",
+      "distanceFromCity": "45 km",
+      "travelTime": "1 hr 20 min",
+      "distanceFromCapital": "145 km from Bhubaneswar",
+      "shortDescription": "India's second-largest mangrove ecosystem, home to saltwater crocodiles and hundreds of bird species.",
+      "history": "Declared a national park in 1998, Bhitarkanika is fed by the Brahmani, Baitarani and Dhamra rivers, forming a dense mangrove delta. It shelters the largest population of saltwater crocodiles in India, including some exceeding 20 feet, and is a critical nesting ground for water birds and migratory species between November and February. The park's core also holds the 17th-century Kanika royal hunting lodge, folded now into the wild.",
+      "bestTimeToVisit": "November – February",
+      "entryFee": "₹40 (Indians) · boat safari charges extra",
+      "nearbyAttractions": [
+        "Gahirmatha Beach",
+        "Kanika Palace",
+        "Dangamal Crocodile Research Centre"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "gahirmatha-beach",
+      "name": "Gahirmatha Beach",
+      "district": "kendrapara",
+      "category": "Beach",
+      "image": "https://images.unsplash.com/photo-1519046904884-53103b34b206?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 20.7833,
+        "lng": 87.0667
+      },
+      "nearestCity": "Kendrapara Town",
+      "distanceFromCity": "58 km",
+      "travelTime": "1 hr 40 min",
+      "distanceFromCapital": "160 km from Bhubaneswar",
+      "shortDescription": "The world's largest nesting site for Olive Ridley sea turtles, protected as a marine wildlife sanctuary.",
+      "history": "Every year between January and April, hundreds of thousands of Olive Ridley turtles arrive at Gahirmatha for mass nesting, known locally as 'arribada'. The beach and adjoining waters were declared a marine sanctuary in 1997 to protect this phenomenon, one of only a handful of arribada sites on Earth. Access to the core nesting beach is restricted during the nesting season to protect the turtles, and visitors typically view the phenomenon via guided boat routes.",
+      "bestTimeToVisit": "January – April (nesting season)",
+      "entryFee": "Permit required through Forest Department",
+      "nearbyAttractions": [
+        "Bhitarkanika National Park",
+        "Habalikhati Wildlife Sanctuary"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "kanika-palace",
+      "name": "Kanika Palace",
+      "district": "kendrapara",
+      "category": "Heritage",
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 20.65,
+        "lng": 86.85
+      },
+      "nearestCity": "Kendrapara Town",
+      "distanceFromCity": "22 km",
+      "travelTime": "40 min",
+      "distanceFromCapital": "125 km from Bhubaneswar",
+      "shortDescription": "The crumbling but atmospheric palace of the erstwhile Kanika zamindari estate.",
+      "history": "Built by the Kanika royal family, once among the wealthiest zamindars of coastal Odisha, this palace blends European colonial columns with Odia architectural motifs. Though largely in ruins today, its scale and detailing hint at the estate's former grandeur. Local guides can point out the durbar hall, private temple, and the estate's old boat jetty once used to reach hunting grounds inside Bhitarkanika.",
+      "bestTimeToVisit": "October – March",
+      "entryFee": "Free",
+      "nearbyAttractions": [
+        "Bhitarkanika National Park",
+        "Rajnagar"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "baladevjew-temple",
+      "name": "Baladevjew Temple",
+      "district": "kendrapara",
+      "category": "Temple",
+      "image": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 20.5,
+        "lng": 86.4167
+      },
+      "nearestCity": "Kendrapara Town",
+      "distanceFromCity": "1.5 km",
+      "travelTime": "5 min",
+      "distanceFromCapital": "105 km from Bhubaneswar",
+      "shortDescription": "A revered Vaishnava temple at the heart of Kendrapara town, dedicated to Lord Baladeva.",
+      "history": "Believed to date back several centuries, the Baladevjew Temple is the spiritual centre of Kendrapara town and follows ritual traditions closely linked to the Jagannath tradition of Puri. The temple hosts a well-attended Rath Yatra (chariot festival) each year, drawing devotees from across the district.",
+      "bestTimeToVisit": "Year-round; especially during Rath Yatra",
+      "entryFee": "Free",
+      "nearbyAttractions": [
+        "Kendrapara Town Market",
+        "Kanika Palace"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "habalikhati-wildlife-sanctuary",
+      "name": "Habalikhati Wildlife Sanctuary",
+      "district": "kendrapara",
+      "category": "Wildlife Sanctuary",
+      "image": "https://images.unsplash.com/photo-1441057206919-63d19fac2369?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 20.75,
+        "lng": 86.95
+      },
+      "nearestCity": "Rajnagar",
+      "distanceFromCity": "15 km",
+      "travelTime": "35 min",
+      "distanceFromCapital": "150 km from Bhubaneswar",
+      "shortDescription": "A quieter, less-visited pocket of the Bhitarkanika mangrove ecosystem, rich in birdlife.",
+      "history": "Habalikhati forms part of the wider Bhitarkanika mangrove network and is a haven for resident and migratory birds, including storks, herons and kingfishers. Its narrow creeks make for a peaceful boat ride away from the more visited parts of the park.",
+      "bestTimeToVisit": "November – February",
+      "entryFee": "₹30 (Indians)",
+      "nearbyAttractions": [
+        "Bhitarkanika National Park",
+        "Gahirmatha Beach"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "jagannath-temple-puri",
+      "name": "Shree Jagannath Temple",
+      "district": "puri",
+      "category": "Temple",
+      "image": "https://images.unsplash.com/photo-1621252179027-94459d278660?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 19.8035,
+        "lng": 85.8189
+      },
+      "nearestCity": "Puri Town",
+      "distanceFromCity": "0.5 km",
+      "travelTime": "5 min",
+      "distanceFromCapital": "60 km from Bhubaneswar",
+      "shortDescription": "One of the Char Dham pilgrimage sites, famed for the annual Rath Yatra.",
+      "history": "Built in the 12th century by King Anantavarman Chodaganga Deva, the temple is dedicated to Lord Jagannath and is among Hinduism's most sacred sites. Its towering shikhara dominates Puri's skyline, and the annual Rath Yatra draws millions of devotees who pull the deities' massive chariots through the streets.",
+      "bestTimeToVisit": "October – February; Rath Yatra in June/July",
+      "entryFee": "Free (non-Hindus not permitted inside)",
+      "nearbyAttractions": [
+        "Puri Beach",
+        "Gundicha Temple",
+        "Chilika Lake"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "puri-beach",
+      "name": "Puri Beach",
+      "district": "puri",
+      "category": "Beach",
+      "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 19.7983,
+        "lng": 85.8317
+      },
+      "nearestCity": "Puri Town",
+      "distanceFromCity": "1 km",
+      "travelTime": "5 min",
+      "distanceFromCapital": "62 km from Bhubaneswar",
+      "shortDescription": "A golden-sand beach known for sunrise views and sand-art festivals.",
+      "history": "A working beach as much as a scenic one — fishing boats line its shores at dawn. It's also home to the International Sand Art Festival, where artists including the celebrated Sudarsan Pattnaik create large-scale sculptures on the sand.",
+      "bestTimeToVisit": "October – March",
+      "entryFee": "Free",
+      "nearbyAttractions": [
+        "Jagannath Temple",
+        "Chilika Lake"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "deomali-peak",
+      "name": "Deomali Peak",
+      "district": "koraput",
+      "category": "Hill Station",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 18.6667,
+        "lng": 82.7167
+      },
+      "nearestCity": "Koraput Town",
+      "distanceFromCity": "60 km",
+      "travelTime": "1 hr 45 min",
+      "distanceFromCapital": "500 km from Bhubaneswar",
+      "shortDescription": "The highest peak in Odisha, wrapped in coffee plantations and tribal villages.",
+      "history": "Rising to about 1,672 metres, Deomali is Odisha's highest point. Its slopes are dotted with coffee plantations introduced decades ago, and the surrounding villages are home to Bonda and Gadaba communities whose traditions remain closely tied to the land.",
+      "bestTimeToVisit": "October – February",
+      "entryFee": "Free",
+      "nearbyAttractions": [
+        "Koraput Coffee Plantations",
+        "Duduma Waterfall"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    },
+    {
+      "id": "similipal-national-park",
+      "name": "Similipal National Park",
+      "district": "mayurbhanj",
+      "category": "Wildlife Sanctuary",
+      "image": "https://images.unsplash.com/photo-1549366021-9f761d450615?q=80&w=1200&auto=format&fit=crop",
+      "coords": {
+        "lat": 21.6167,
+        "lng": 86.3
+      },
+      "nearestCity": "Baripada",
+      "distanceFromCity": "60 km",
+      "travelTime": "1 hr 50 min",
+      "distanceFromCapital": "260 km from Bhubaneswar",
+      "shortDescription": "A vast tiger reserve of sal forest, waterfalls and rolling grassland.",
+      "history": "Declared a tiger reserve in 1956 and a biosphere reserve in 2009, Similipal spans nearly 2,750 sq km of forest. It hosts tigers, elephants, and the rare melanistic (black) tiger, alongside waterfalls like Barehipani and Joranda, among India's tallest.",
+      "bestTimeToVisit": "November – June (closed during monsoon)",
+      "entryFee": "₹40+ (Indians), vehicle & guide fees extra",
+      "nearbyAttractions": [
+        "Barehipani Falls",
+        "Joranda Falls",
+        "Khiching"
+      ],
+      "videos": [],
+      "submittedBy": null,
+      "status": "approved"
+    }
+  ]
+}
