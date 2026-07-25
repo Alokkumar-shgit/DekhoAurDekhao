@@ -3,16 +3,17 @@
 @tailwind utilities;
 
 :root {
-  --color-bg: #131b2e;
-  --color-bg2: #1b2a4a;
-  --color-text: #f7f3e9;
-  --color-muted: #b8c0d4;
-  --color-primary: #1b2a4a;
-  --color-accent: #c1440e;
-  --color-gold: #e8b84b;
-  --font-display: 'Fraunces', serif;
-  --font-body: 'Work Sans', sans-serif;
-  --font-accent: 'Baloo 2', sans-serif;
+  --color-bg: #ffffff;
+  --color-bg2: #f4f4f4;
+  --color-text: #0a0a0a;
+  --color-muted: #4a4a4a;
+  /* --color-primary: #1b2a4a; */
+  /* --color-accent: #512817; */
+  --color-gold: #a8730a;
+  --color-border: rgba(0, 0, 0, 0.12);
+  /* --font-display: 'Fraunces', serif; */
+  /* --font-body: 'Work Sans', sans-serif; */
+  /* --font-accent: 'Baloo 2', sans-serif; */
 }
 
 html {
@@ -34,9 +35,11 @@ body {
 ::-webkit-scrollbar {
   width: 10px;
 }
+
 ::-webkit-scrollbar-track {
   background: var(--color-bg);
 }
+
 ::-webkit-scrollbar-thumb {
   background: var(--color-primary);
   border: 2px solid var(--color-bg);
@@ -45,26 +48,20 @@ body {
 
 /* Torana / temple-arch signature shape, used across hero + featured cards */
 .arch-frame {
-  clip-path: polygon(
-    0% 100%, 0% 22%, 4% 14%, 10% 8%, 18% 3%, 28% 0.5%, 38% 0%,
-    50% 0%, 62% 0%, 72% 0.5%, 82% 3%, 90% 8%, 96% 14%, 100% 22%,
-    100% 100%
-  );
+  clip-path: polygon(0% 100%, 0% 22%, 4% 14%, 10% 8%, 18% 3%, 28% 0.5%, 38% 0%,
+      50% 0%, 62% 0%, 72% 0.5%, 82% 3%, 90% 8%, 96% 14%, 100% 22%,
+      100% 100%);
 }
 
 .arch-frame-sm {
-  clip-path: polygon(
-    0% 100%, 0% 30%, 8% 14%, 22% 3%, 40% 0%, 60% 0%, 78% 3%,
-    92% 14%, 100% 30%, 100% 100%
-  );
+  clip-path: polygon(0% 100%, 0% 30%, 8% 14%, 22% 3%, 40% 0%, 60% 0%, 78% 3%,
+      92% 14%, 100% 30%, 100% 100%);
 }
 
 .notch-corner {
-  clip-path: polygon(
-    0 12px, 12px 0, calc(100% - 12px) 0, 100% 12px,
-    100% calc(100% - 12px), calc(100% - 12px) 100%,
-    12px 100%, 0 calc(100% - 12px)
-  );
+  clip-path: polygon(0 12px, 12px 0, calc(100% - 12px) 0, 100% 12px,
+      100% calc(100% - 12px), calc(100% - 12px) 100%,
+      12px 100%, 0 calc(100% - 12px));
 }
 
 .text-gradient-gold {
@@ -77,6 +74,7 @@ body {
 .grain {
   position: relative;
 }
+
 .grain::after {
   content: "";
   position: absolute;

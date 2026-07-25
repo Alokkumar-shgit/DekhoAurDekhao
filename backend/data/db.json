@@ -250,6 +250,32 @@
       "videos": [],
       "submittedBy": null,
       "status": "approved"
+    },
+    {
+      "id": "community-bff616d3-6ab7-4a14-91de-81cdb4056ba2",
+      "name": "Sikharchandi Temple",
+      "district": "khordha",
+      "category": "Temple",
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?q=80&w=1200&auto=format&fit=crop",
+      "images": [],
+      "videos": [],
+      "coords": {
+        "lat": 20.348409290136523,
+        "lng": 85.77936793606091
+      },
+      "nearestCity": "Sikharchandi temple",
+      "distanceFromCity": "",
+      "travelTime": "—",
+      "distanceFromCapital": "",
+      "shortDescription": "A temple near Kiit",
+      "history": "A temple near Kiit",
+      "bestTimeToVisit": "Year-round",
+      "entryFee": "Not specified",
+      "nearbyAttractions": [],
+      "status": "approved",
+      "submittedBy": "Alok kumar sahoo",
+      "submittedById": "8ba89a3c-58cf-468f-92f6-eb506d77a856",
+      "createdAt": "2026-07-25T14:49:35.724Z"
     }
   ]
 }

@@ -57,8 +57,7 @@ export default function Login() {
               type="password"
               value={form.password}
               onChange={(e) => setForm({ ...form, password: e.target.value })}
-              className="w-full border border-white/15 bg-[var(--color-bg)]/60 px-4 py-2.5 text-[var(--color-text)] outline-none focus:border-[var(--color-accent)]"
-            />
+              className="w-full border border-white/15 bg-[var(--color-bg)]/60 px-4 py-2.5 text-white outline-none focus:border-[var(--color-accent)]" />
           </div>
           <button
             type="submit"
